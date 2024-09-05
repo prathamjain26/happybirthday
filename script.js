@@ -54,5 +54,5 @@ animateConfetti();
 // Surprise Button
 const surpriseBtn = document.querySelector('.surprise-btn');
 surpriseBtn.addEventListener('click', () => {
-  alert('A very fantastic and happy birthday to you Anuja "Aunty"🎉🌺😁🫶🏻\nMay this day bring happiness and blessings for you and you enjoy every bit of it✨✨\nMany many happy returns of the dayy🎂🎂\nGbu💖You deserve the love , joy and happiness today and always 🎊🎀🎀\nCheers to another year of fun , unforgettable memories 🍻');
+  alert('A very fantastic and happy birthday to you Anuja "Aunty"🎉🌺😁🫶🏻\nMay this day bring happiness and blessings for you and you enjoy every bit of it✨✨\nMany many happy returns of the dayy🎂🎂\nGbu💖You deserve the love, joy and happiness today and always 🎊🎀🎀\nCheers to another year of fun, unforgettable memories 🍻');
 });
